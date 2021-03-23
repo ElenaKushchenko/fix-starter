@@ -1,0 +1,8 @@
+quickfixj:
+  client:
+    autoStartup: true
+    configs:
+      - file
+      - file
+      - file
+  
