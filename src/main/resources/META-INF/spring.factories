@@ -1,0 +1,7 @@
+# AutoConfigurations
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  ru.cib.fi.quickfixj.starter.configuration.server.FixServerAutoConfiguration,\
+  ru.cib.fi.quickfixj.starter.configuration.client.FixClientAutoConfiguration,\
+  ru.cib.fi.quickfixj.starter.configuration.FixTemplateAutoConfiguration
+
+
